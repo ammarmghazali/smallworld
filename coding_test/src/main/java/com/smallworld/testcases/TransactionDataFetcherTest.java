@@ -159,5 +159,3 @@ class TransactionDataFetcherTest {
         assertEquals(100.0, top3Transactions.get(1).getAmount());
         assertEquals(50.0, top3Transactions.get(2).getAmount());
     }
-
-    /**
